@@ -3,7 +3,7 @@
 {
     "feature/admins/admin-card": {
         "scope": "cpoliver.demo-scope",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "demo-scope/feature/admins/admin-card"
     },
@@ -21,7 +21,7 @@
     },
     "ui/theme-provider": {
         "scope": "iamcloud.iam",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "mainFile": "index.ts",
         "rootDir": "iam/ui/theme-provider"
     },
