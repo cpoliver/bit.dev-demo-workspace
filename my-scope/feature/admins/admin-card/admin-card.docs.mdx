@@ -1,22 +1,24 @@
 ---
-description: 'A AdminCard component.'
-labels: ['label1', 'label2', 'label3']
+description: "An AdminCard component."
+labels: ["common", "user"]
 ---
 
-import { AdminCard } from './admin-card';
+import { AdminCard } from "./admin-card";
 
-## React Component for rendering text
+## React Component for rendering an Admin
 
-A basic div that renders some text
+A basic component that renders the name, avatar, and status of an Admin
 
 ### Component usage
+
 ```js
-<AdminCard text="hello from AdminCard" />
+<AdminCard name="Charles Oliver" status="Pending" />
 ```
 
 ### Using props to customize the text
 
 Modify the text to see it change live:
+
 ```js live
-<AdminCard text="hello from AdminCard" />
+<AdminCard name="John Doe" status="Accepted" />
 ```

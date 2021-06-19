@@ -2,29 +2,33 @@ import React from "react";
 
 export type AvatarProps = {
   name: string;
-  size?: string;
 };
 
-export const Avatar: React.FC<AvatarProps> = ({ name, size = "1.5rem" }) => (
+export const Avatar: React.FC<AvatarProps> = ({ name }) => (
   <div
     style={{
-      backgroundColor: "tomato",
+      backgroundColor: "#666",
       color: "#eee",
       padding: ".5rem",
       borderRadius: "50%",
-      height: size,
-      width: size,
       margin: "auto",
       display: "flex",
       alignItems: "center",
       justifyContent: "center",
+      height: "1rem",
+      width: "1rem",
     }}
   >
-    <span style={{ fontSize: `calc(${size} * 0.8)`, margin: 0, padding: 0 }}>
+    <p
+      style={{
+        margin: "auto",
+        padding: 0,
+      }}
+    >
       {name
         .split(" ")
         .map((n: string) => n[0] ?? "")
         .join("")}
-    </span>
+    </p>
   </div>
 );
