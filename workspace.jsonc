@@ -4,7 +4,7 @@
     "name": "demo-workspace",
     "icon": "https://static.bit.dev/bit-logo.svg",
     "defaultDirectory": "{scope}/{name}",
-    "defaultScope": "my-scope"
+    "defaultScope": "cpoliver.demo-scope"
   },
   "teambit.dependencies/dependency-resolver": {
     "packageManager": "teambit.dependencies/pnpm",

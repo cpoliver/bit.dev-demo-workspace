@@ -1,0 +1,21 @@
+---
+description: "A React Hook that returns the theme color for a given status."
+labels: ["hook", "theme", "color", "status", "admin"]
+---
+
+import { useStatusColor } from "./use-status-color";
+
+## A React Hook to return the theme color for a given status
+
+### Component usage
+
+```js
+import { useStatusColor } from "./use-status-color";
+
+const status = "Accepted";
+const color = useStatusColor(status);
+
+<h1>
+  The color for {status} is {color}
+</h1>;
+```

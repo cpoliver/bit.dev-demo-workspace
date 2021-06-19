@@ -5,19 +5,25 @@
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
-        "rootDir": "my-scope/feature/admins/admin-card"
+        "rootDir": "demo-scope/feature/admins/admin-card"
+    },
+    "theme/hooks/use-status-color": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "demo-scope/theme/hooks/use-status-color"
     },
     "ui/avatar": {
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
-        "rootDir": "my-scope/ui/avatar"
+        "rootDir": "demo-scope/ui/avatar"
     },
     "ui/status": {
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
-        "rootDir": "my-scope/ui/status"
+        "rootDir": "demo-scope/ui/status"
     },
     "$schema-version": "14.9.0"
 }

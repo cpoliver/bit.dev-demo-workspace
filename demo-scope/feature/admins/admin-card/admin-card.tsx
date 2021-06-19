@@ -1,6 +1,6 @@
 import React from "react";
-import { Avatar, AvatarProps } from "@my-scope/ui.avatar";
-import { Status, StatusProps } from "@my-scope/ui.status";
+import { Avatar, AvatarProps } from "@cpoliver/demo-scope.ui.avatar";
+import { Status, StatusProps } from "@cpoliver/demo-scope.ui.status";
 
 export type AdminCardProps = AvatarProps & StatusProps;
 
