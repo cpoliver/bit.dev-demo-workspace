@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import type { Status } from "@my-scope/ui.status";
+import type { Status } from "@cpoliver/demo-scope.ui.status";
 
 const color: { [key in Status]: string } = {
   Accepted: "cornflowerblue",

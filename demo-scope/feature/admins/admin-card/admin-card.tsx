@@ -2,7 +2,7 @@ import React from "react";
 import { Avatar, AvatarProps } from "@cpoliver/demo-scope.ui.avatar";
 import { Status, StatusProps } from "@cpoliver/demo-scope.ui.status";
 
-export type AdminCardProps = AvatarProps & StatusProps;
+export type AdminCardProps = AvatarProps & Partial<StatusProps>;
 
 export const AdminCard: React.FC<AdminCardProps> = ({
   name,

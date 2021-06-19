@@ -2,26 +2,26 @@
 
 {
     "feature/admins/admin-card": {
-        "scope": "",
-        "version": "",
+        "scope": "cpoliver.demo-scope",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "demo-scope/feature/admins/admin-card"
     },
     "theme/hooks/use-status-color": {
-        "scope": "",
-        "version": "",
+        "scope": "cpoliver.demo-scope",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "demo-scope/theme/hooks/use-status-color"
     },
     "ui/avatar": {
-        "scope": "",
-        "version": "",
+        "scope": "cpoliver.demo-scope",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "demo-scope/ui/avatar"
     },
     "ui/status": {
-        "scope": "",
-        "version": "",
+        "scope": "cpoliver.demo-scope",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "demo-scope/ui/status"
     },

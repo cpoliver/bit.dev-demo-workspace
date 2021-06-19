@@ -1,0 +1,30 @@
+[
+  {
+    "id": {
+      "scope": "cpoliver.demo-scope",
+      "name": "feature/admins/admin-card"
+    },
+    "head": "a3c3e006b6a2df13e6c75def902052b9eaa9e913"
+  },
+  {
+    "id": {
+      "scope": "cpoliver.demo-scope",
+      "name": "theme/hooks/use-status-color"
+    },
+    "head": "196a08d8019fe71df7b4e2ce0ce10bc508aff02c"
+  },
+  {
+    "id": {
+      "scope": "cpoliver.demo-scope",
+      "name": "ui/avatar"
+    },
+    "head": "8220f6e1ee3d0ddfc721abbc61914c3d8b83fa15"
+  },
+  {
+    "id": {
+      "scope": "cpoliver.demo-scope",
+      "name": "ui/status"
+    },
+    "head": "110963261daea7fac9b38f5f0cc34e04f80959d1"
+  }
+]

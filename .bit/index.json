@@ -1,0 +1,69 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": null,
+        "name": "feature/admins/admin-card"
+      },
+      "isSymlink": true,
+      "hash": "c72eddcc73d022c51dfe1b4e93b2549eccd5a68c"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "theme/hooks/use-status-color"
+      },
+      "isSymlink": true,
+      "hash": "7c84d80072def3f614e921a2e01b69223323b13f"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/avatar"
+      },
+      "isSymlink": true,
+      "hash": "f6a7ea1efda75ce786161d4b17efd4edc22f2f73"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/status"
+      },
+      "isSymlink": true,
+      "hash": "bfb52e502d9ed197222874e910305f4ce27ec334"
+    },
+    {
+      "id": {
+        "scope": "cpoliver.demo-scope",
+        "name": "feature/admins/admin-card"
+      },
+      "isSymlink": false,
+      "hash": "2cec921a56464d4ebc6b8c91ce06bd8afc8f35c2"
+    },
+    {
+      "id": {
+        "scope": "cpoliver.demo-scope",
+        "name": "theme/hooks/use-status-color"
+      },
+      "isSymlink": false,
+      "hash": "f572984523f105c5caa29699d8658b47290477d2"
+    },
+    {
+      "id": {
+        "scope": "cpoliver.demo-scope",
+        "name": "ui/avatar"
+      },
+      "isSymlink": false,
+      "hash": "2e2745b9a73bf56aacdd1e464743b6bd756e8085"
+    },
+    {
+      "id": {
+        "scope": "cpoliver.demo-scope",
+        "name": "ui/status"
+      },
+      "isSymlink": false,
+      "hash": "ba4caab5d34847e1d360da145c2460db4a0c0be0"
+    }
+  ],
+  "lanes": []
+}
