@@ -26,3 +26,4 @@ yarn-error.log*
 
 # bit
 .bit/cache/
+.bit/objects/

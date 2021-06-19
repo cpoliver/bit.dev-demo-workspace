@@ -1,0 +1,33 @@
+---
+description: "A ThemeProvider component."
+labels: ["label1", "label2", "label3"]
+---
+
+import { ThemeProvider } from "./theme-provider"
+import { Box, Text } from "@chakra-ui/react"
+
+## React Component for rendering text
+
+A basic div that renders some text
+
+### Component usage
+
+```js
+<ThemeProvider>
+  <Box bg="Ui01">
+    <Text>test</Text>
+  </Box>
+</ThemeProvider>
+```
+
+### Using props to customize the text
+
+Modify the text to see it change live:
+
+```js live
+<ThemeProvider>
+  <Box bg="Danger01">
+    <Text>test</Text>
+  </Box>
+</ThemeProvider>
+```

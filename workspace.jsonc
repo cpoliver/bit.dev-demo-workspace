@@ -10,8 +10,12 @@
     "packageManager": "teambit.dependencies/pnpm",
     "policy": {
       "dependencies": {
+        "@chakra-ui/react": "1.6.4",
+        "@emotion/react": "11.4.0",
+        "@emotion/styled": "11.3.0",
         "@testing-library/react": "11.2.7",
-        "@testing-library/react-hooks": "7.0.0"
+        "@testing-library/react-hooks": "7.0.0",
+        "framer-motion": "4.1.17"
       },
       "peerDependencies": {
         "react": "16.13.1",

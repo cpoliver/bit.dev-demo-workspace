@@ -19,14 +19,6 @@
     {
       "id": {
         "scope": null,
-        "name": "ui/avatar"
-      },
-      "isSymlink": true,
-      "hash": "f6a7ea1efda75ce786161d4b17efd4edc22f2f73"
-    },
-    {
-      "id": {
-        "scope": null,
         "name": "ui/status"
       },
       "isSymlink": true,
@@ -51,18 +43,18 @@
     {
       "id": {
         "scope": "cpoliver.demo-scope",
-        "name": "ui/avatar"
-      },
-      "isSymlink": false,
-      "hash": "2e2745b9a73bf56aacdd1e464743b6bd756e8085"
-    },
-    {
-      "id": {
-        "scope": "cpoliver.demo-scope",
         "name": "ui/status"
       },
       "isSymlink": false,
       "hash": "ba4caab5d34847e1d360da145c2460db4a0c0be0"
+    },
+    {
+      "id": {
+        "scope": "iamcloud.iam",
+        "name": "ui/theme-provider"
+      },
+      "isSymlink": false,
+      "hash": "c720c572342c6bc6b59be95b0c5fad7d1cd2e127"
     }
   ],
   "lanes": []
